@@ -1,4 +1,4 @@
-﻿// Template for Classification tasks (Sorting into categories)
+// Template for Classification tasks (Sorting into categories)
 class ClassificationTemplate {
     constructor(container, content, onSuccess, onFail) {
         this.container = container;
