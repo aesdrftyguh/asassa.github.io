@@ -1,4 +1,4 @@
-﻿class SortingTemplate {
+class SortingTemplate {
     constructor(container, content, onSuccess, onFail) {
         this.container = container;
         this.content = content;
